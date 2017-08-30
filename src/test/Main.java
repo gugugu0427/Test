@@ -7,4 +7,7 @@ public class Main {
     public static void main(String args[]){
         System.out.println("你好,gitHub111acccccc");
     }
+    public void test(){
+        System.out.println("11111");
+    }
 }
